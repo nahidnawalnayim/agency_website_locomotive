@@ -616,7 +616,7 @@
     nav h1 {
       transition: all ease 0.2s;
       height: 6vh;
-   
+    margin-top: 36px;
     }
   
   
@@ -635,7 +635,7 @@
     }
   
     #header_section-center {
-      height: 62vh;
+      height: 52vh;
       width: 100%;
       /* background-color: orange; */
       display: flex;
@@ -656,7 +656,8 @@
     }
   
     #header_section-center #right h1 {
-      font-size: 17vw;
+      font-size: 15vw;
+      margin-top: 30px;
       text-align: right;
       line-height: 15vw;
     }
@@ -738,8 +739,9 @@
     }
   
     #about_details #about-right  img {
-      width: 100%;
+      width: 88vw;
       border-radius: 10px;
+      height: 100vw;
     }
   
     #about_details #about-right p {
